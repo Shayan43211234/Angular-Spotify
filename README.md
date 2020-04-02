@@ -7,8 +7,10 @@ This project Create a Spotify like website with basic CRUD and song listings & g
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Output
-
-![Image Login & Signup](loginsignup.PNG)
+Login & Signup
+![Image](loginsignup.PNG)
+Songs List
+![Image](songs.PNG)
 
 ## Code scaffolding
 
