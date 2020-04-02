@@ -1,6 +1,6 @@
-# AngularCrudOperations
+# Angular-Spotify
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.0.
+This project Create a Spotify like website with basic CRUD and song listings & generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.0.
 
 ## Development server
 
