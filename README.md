@@ -11,6 +11,9 @@ Login & Signup
 ![Image](loginsignup.PNG)
 Songs List
 ![Image](songs.PNG)
+Add Song
+![Image](addsong.PNG)
+
 
 ## Code scaffolding
 
