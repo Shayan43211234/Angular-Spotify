@@ -16,14 +16,11 @@ Songs List
 Add Song
 ![Image](addsong.PNG)
 
-Delete Song
-![Image](deletesong.PNG)
-
 Artist List
 ![Image](artist.PNG)
 
 Add Artist
-![Image](addartist.PNG)
+![Image](addarist.PNG)
 
 Edit artist
 ![Image](editartist.PNG)
